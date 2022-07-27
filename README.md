@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=&height=300&section=header&text=qwdbwp&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=&height=100&section=header&text=qwdbwp&fontSize=50)
 
-## Contacts
+<center> my contacts </center>
 
 <a href="https://www.instagram.com/seulyeahsuul"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seulyeahsuul"/></a>
 <a href="mailto:iqwdbwpi@gmail.com">
